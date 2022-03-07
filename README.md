@@ -1,4 +1,4 @@
-# Analisador-de-Indicadores-de-Fluxo-do-CCT
+# Analisador-dos-Indicadores-de-Fluxo-do-CCT
 
 Analisador desenvolvido em Python, que lê e apresenta análises gráficas dos dados dos Indicadores de Fluxos dos Cursos da Educação Superior da Universidade do Estado de Santa Catarina (CCT).
 
