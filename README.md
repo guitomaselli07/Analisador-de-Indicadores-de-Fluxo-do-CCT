@@ -4,4 +4,6 @@ Analisador desenvolvido em Python, que lê e apresenta análises gráficas dos d
 
 Projeto desenvolvido para a Iniciação Científica sobre Evasão Escolar.
 
-Todos os dados foram coletados no site do INEP e são refentes do ano de 2015 até o ano de 2019.
+Todos os dados foram coletados no site do INEP e são refentes dos anos de 2015 até 2019.
+
+Para a execução, basta baixar o arquivo .py e o arquivo .xlsx e salvá-los em uma mesma pasta.
